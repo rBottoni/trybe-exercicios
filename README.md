@@ -2,10 +2,10 @@
 
 Este repositório contém os exercícios resolvidos por Ricardo Bottoni durante o curso da Trybe.
 
-# Módulo Fundamentos
+## Módulo Fundamentos
 
 Unix, Shell, Git, Github. Html, CSS, JavaScript.
 
-# Seção 02: Introdução à HTML e CSS
+### Seção 02: Introdução à HTML e CSS
 
-# Dia 01:
+#### Dia 01:
