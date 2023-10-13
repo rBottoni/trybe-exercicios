@@ -4,7 +4,7 @@ Este repositório contém os exercícios resolvidos por [Ricardo Bottoni](https:
 
 ## Módulo Fundamentos
 
-Unix, Shell, Git, Github. Html, CSS, JavaScript.
+Unix, Shell, Git, Github, HTML, CSS, JavaScript.
 
 ### Seção 02: Introdução à HTML e CSS
 
