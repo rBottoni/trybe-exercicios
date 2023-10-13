@@ -1,6 +1,6 @@
 # Fullstack
 
-Este repositório contém os exercícios resolvidos por Ricardo Bottoni durante o curso da Trybe.
+Este repositório contém os exercícios resolvidos por [Ricardo Bottoni](https://www.linkedin.com/in/ricardobottoni/) durante o curso da Trybe.
 
 ## Módulo Fundamentos
 
