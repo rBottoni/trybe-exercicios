@@ -9,3 +9,4 @@ Unix, Shell, Git, Github, HTML, CSS, JavaScript.
 ### Seção 02: Introdução à HTML e CSS
 
 #### Dia 01:
+Teste
